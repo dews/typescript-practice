@@ -1,5 +1,6 @@
 module.exports = {
   root: true,
+  files: ["*.js"],
   plugins: ["prettier"],
   extends: [
     "eslint:recommended",
